@@ -22,16 +22,16 @@ Technologies Used
 
 Game Mechanics
 - Each turn:
-    Player uses energy to play cards
-    Enemy performs an action
+    Player uses energy to play cards.
+    Enemy performs an action.
 - Cards can:
-    Deal damage
-    Apply buffs/debuffs
-    Draw more cards / Give more energy
+    Deal damage.
+    Apply buffs/debuffs.
+    Draw more cards / Give more energy.
 - Damage formula includes:
-    Strength scaling
-    Weakness / Vulnerability modifiers
-    Block system
+    Strength scaling.
+    Weakness / Vulnerability modifiers.
+    Block system.
 
 Gameplay:
 https://github.com/user-attachments/assets/0059a68a-dad7-4d5f-89b9-5de5c91c4c39
